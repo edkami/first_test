@@ -8,13 +8,13 @@ with open("requirements.txt") as f:
 
 setup(
     name="first_test",
-    version="0.0.1",
+    version="0.0.3",
     author="Eduardo Tostes",
     author_email="eduardo.tostes.jf@gmail.com",
     description="Test Ping",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/edkami/first_test",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.7',
