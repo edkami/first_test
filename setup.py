@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="first_test",
-    version="0.0.3",
+    version="0.0.6",
     author="Eduardo Tostes",
     author_email="eduardo.tostes.jf@gmail.com",
     description="Test Ping",
